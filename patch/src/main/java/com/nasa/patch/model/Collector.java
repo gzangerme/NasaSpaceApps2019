@@ -15,6 +15,12 @@ public class Collector {
 	private String identity;
 	private String phone;
 	
+	public Collector(String name, String identity, String phone) {
+		this.name = name;
+		this.identity = identity;
+		this.phone = phone;
+	}
+	
 	public int getId() {
 		return id;
 	}
