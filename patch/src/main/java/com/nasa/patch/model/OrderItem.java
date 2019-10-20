@@ -21,6 +21,7 @@ public class OrderItem {
 	@JoinColumn(name = "company_id")
 	private Company company;
 	
+	//Meta prevista para quantidade de lixo em toneladas
 	private int goal;
 	
     @Column(columnDefinition = "integer default 0")

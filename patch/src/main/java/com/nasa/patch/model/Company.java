@@ -15,6 +15,12 @@ public class Company {
 	private String identity;
 	private String category;
 	
+	public Company(String name, String identity, String category) {
+		this.name = name;
+		this.identity = identity;
+		this.category = category;
+	}
+	
 	public int getId() {
 		return id;
 	}
