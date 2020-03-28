@@ -5,6 +5,6 @@ During the NASA Intenational Space Apps Challenge, me and my team had the opport
 
 We projected an app to help clean the Great Pacific Garbage Patch, a collection of marine debris in the North Pacific Ocean. To solve that challenge, we connected companies that buys trash and people that will collect the trash from the Patch and bring to the companies in trade for money.
 
-The hackathon was an amazing oportunity to growth my career and help the world be better.
+The hackathon was an amazing oportunity for my my career growth and help to build a better world.
 
 To present the MVP, we created an RESTFul API with Spring boot.
